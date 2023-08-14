@@ -1,6 +1,6 @@
 # nerf2mesh_jewelry
 
-# lego data
+###lego data
 
 1. colmap 주의
 2. 최소 100장
